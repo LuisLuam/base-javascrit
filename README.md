@@ -1,4 +1,4 @@
-# Proyecto inicial - Reforzamiento de JavaScript
+# Proyecto inicial - Reforzamiento de JavaScript - Dia 13/11/2024 empezando
 
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
