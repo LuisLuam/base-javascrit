@@ -1,1 +1,1 @@
-# Aquí colocaremos un respaldo de nuestro código - empezando 0/01/2023 actualizado
+# Aquí colocaremos un respaldo de nuestro código - empezando 04/06/2026 actualizado
